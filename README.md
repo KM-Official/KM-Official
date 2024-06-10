@@ -4,7 +4,7 @@
 <h2>My Projects</h2>
 <ul>
   <li>
-    <a href="#">ACGL.gg Rebuild</a>
+    <a href="https://github.com/KM-Official/KM-Official/blob/main/ACGLproject.md" target="_blank">ACGL.gg Rebuild</a>
   </li>
 </ul>
 <ul>
